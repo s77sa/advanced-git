@@ -2,3 +2,4 @@ add text line
 hello.txt
 Second line in master
 Second line in my_second_branch
+Hello from main repository
